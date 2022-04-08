@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @georgetsiga
-- 👀 I’m interested in Amdroid mobile developement and Robotics
+- 👀 I’m interested in Android mobile developement and Robotics
 - 🌱 I’m currently learning Arduino
 
 <!---
